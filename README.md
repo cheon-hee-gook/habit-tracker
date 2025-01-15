@@ -130,7 +130,7 @@ backend/
 ## 프로젝트 미리보기
 
 ### **루틴 추가 화면**
-![Routine Add](assets/routine_list_example.png)
+![Routine Add](assets/routine_add_example.png)
 
 ### **루틴 목록 화면**
 ![Routine List](assets/routine_list_example.png)
